@@ -2,8 +2,8 @@
     "name": "interop-phpobjects/lenient-annotation",
     "type": "library",
     "description": "Annotation reader interface and basic annotation set",
-    "keywords": ["annotation","interoperability"],
-    "license": "BSD-3-Clause",
+    "keywords": ["annotation","interoperability","interop-annotation"],
+    "license": "MIT",
     "require": {
         "php": ">=5.3.3"
     },
